@@ -1,0 +1,20 @@
+                                     Computer Programming as an Art
+
+             This article is written based on the talk given by the Turing Award winner Don Knuth. He got the Turing award for his significant contribution to the computer science. He got Turing Award in 1974 A.m.
+             People on those days used to think that computer programming is some scientific task which is not meant for normal people. Earlier people used to be in this state. After people listen to this talk this talk their whole perspective changed towards programming world.
+              The whole talk is to emphasize the point that computer programming is an art. It requires knowledge,skill,creativity. People who are doing programming should subconsciously feel that he is an artist then he can enjoy the beauty of the art programming and will do it better.
+               
+                                    Meaning of art according to old sayings...
+
+             The term art, when people listen it they start imagine  things like painting,drawing etc. but according to the Latin art word meant skill and logic. art meant for some thing devised by man's intellect.  
+ 
+                                            Science Vs Art
+  
+                          Basically the term Science being used to stand for knowledge, and art for the application of the knowledge.
+ eg: science of astronomy was the basis for the art of navigation. art in general consist of the truths of science,arranged in order to take in at one view. Science contains the knowledge in the form of general laws. we don't need to worry about individual cases. we can turn out thoughts into higher level concepts.
+                          The things people do in day today life like speaking,listening,creating,and even programming are still beyond the reach of science every thing that we do is still an art.
+                    
+                                            Works of an  art
+      
+                            When we think about the arts in the programming 
+
